@@ -487,7 +487,7 @@ Branch搞好，保护打开：main，development
 
 北京时间2025年4月16日会议：<br/>
 ```
-250415会议纪要
+会议纪要
 出席：Arturia，lurenjia，Eyrica，Mike，Paul（迟到），Lisa，RQWJET
 
 策划职责：
