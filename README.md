@@ -420,24 +420,24 @@ Originis<br/>
 
 ### 成员分配
 
-**制作人（Producer）**：项目总负责人，协调资源、把控进度和预算。```王逸之```<br/>
+**制作人（Producer）**：项目总负责人，协调资源、把控进度和预算。```Arturia```<br/>
 
 **策划（Game Design）**：<br/>
-     - 系统策划（玩法设计/数值平衡）```刘以清、王明扬、王逸之```<br/>
+     - 系统策划（玩法设计/数值平衡）```Eyrica、王明扬、Arturia```<br/>
      - 关卡策划（地图/任务设计）```Lisa、Mike、Paul```<br/>
      - 剧情策划（世界观/叙事设计）```Mike```<br/>
 
 **程序（Engineering）**：<br/>
-     - 客户端开发（Unity/Unreal引擎）```刘以清、Lisa、王明扬、王逸之、Paul```<br/>
+     - 客户端开发（Unity/Unreal引擎）```Eyrica、Lisa、王明扬、Arturia、Paul```<br/>
      - 技术美术（TA）/图形程序（渲染优化）<br/>
 
 **美术（Art）**：<br/>
      - 原画（概念设计）<br/>
-     - 2D/3D美术（角色/场景建模）```刘以清、Lisa、Mike```<br/>
+     - 2D/3D美术（角色/场景建模）```Eyrica、Lisa、Mike```<br/>
      - 动画（动作/特效）<br/>
      - UI/UX（界面交互设计）```Mike、Paul、Lisa```<br/>
 
-**音频（Audio）**：背景音乐、音效、配音。```王逸之、Paul```<br/>
+**音频（Audio）**：背景音乐、音效、配音。```Arturia、Paul```<br/>
 
 ### 无刃传说（Legend of the Void Blade）开发计划 - 第 1 周
 
@@ -446,15 +446,15 @@ Originis<br/>
 北京时间2025年4月12日会议：<br/>
 ```
 会议纪要
-参会成员：王逸之，王明扬，曲，刘以清，Mike，Paul
+参会成员：Arturia，lurenjia，Lisa，Eyrica，Mike，Paul
 
 主角穿越到异世界有突兀感
 学习虚幻引擎：建议边上手边学习
 从今天开始正式立项
 
 最新成员安排：
-建模：张，李晨阳 玩家设置和基本反映逻辑：曲，王明阳，王逸之
-游戏系统：刘以清，王逸之
+建模：张，李晨阳 玩家设置和基本反映逻辑：Lisa，lurenjia，Arturia
+游戏系统：Eyrica，Arturia
 
 序章剧情：
 
@@ -483,4 +483,36 @@ Branch搞好，保护打开：main，development
 	4. 表示
 	5. 按键设置，例如shift切换走跑
 	6. 玩家移动姿势
+```
+
+北京时间2025年4月16日会议：<br/>
+```
+250415会议纪要
+出席：Arturia，lurenjia，Eyrica，Mike，Paul（迟到），Lisa，RQWJET
+
+策划职责：
+ 系统：元素之间具体是怎么反应的， 数值攻击力
+ 关卡：地图，主线支线任务，NPC对话
+ 剧情：世界观要符合逻辑，剧情可感人，提供任务文案
+
+
+美术按之前的来
+
+确认了元素而非规则，
+拥有7~8个元素，5常规，2~3特殊
+
+“无”元素：
+玩家的能力要有合理解释：~
+右手短刀：无元素
+
+Commit 格式：
+每段之后加两个空格可以换行
+Summery：不用文件名，README
+Description: 统一用英文，写一下干了什么
+
+演出需要重写
+
+接下来要用Wiki代替README了
+
+原画偏后期，后面再做
 ```
